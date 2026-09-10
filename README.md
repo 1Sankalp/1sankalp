@@ -1,4 +1,4 @@
-### Hi there! 👋
+<!--### Hi there! 👋
 
 Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 
@@ -6,7 +6,7 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 
 
 <!--* Co-founder and CEO at (YC S24)</a> 🙌 
-* Partner at <a href="https://parivestra.com/" target="_blank">Parivestra</a>-->
+* Partner at <a href="https://parivestra.com/" target="_blank">Parivestra</a> 
 
 
 <hr />
@@ -17,4 +17,4 @@ Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sankalp&layout=compact)-->
