@@ -1,6 +1,6 @@
-<!--### Hi there! 👋
+### Hi there! 👋
 
-Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
+<!--Detailed bio at <a href="https://sankalp.sh/" target="_blank">sankalp.sh</a>
 
 ### Current⚡️
 
